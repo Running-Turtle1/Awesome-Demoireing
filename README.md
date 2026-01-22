@@ -22,6 +22,7 @@ Continual improvements are being made to this repository. If you come across any
 | --- | --- | --- | --- | --- |
 | Video Demoireing using Focused-Defocused Dual-Camera System | [TPAMI-2025](https://www.arxiv.org/abs/2508.03449) | [dual_lens-demoireing](https://github.com/circle11111/dual_lens_demoireing) |     | Focused-Defocused |
 | Image DeMoiréing Using Dual Camera Fusion on Mobile Phones | [ICME-2025](https://arxiv.org/pdf/2506.08361) | [DCID](https://github.com/Mrduckk/DCID) | [DCID](https://github.com/Mrduckk/DCID) | Dual Camera |
+|Moir´e Zero: An Efficient and High-Performance Neural Architecture for Moir´e Removal| [arxiv-2025](https://arxiv.org/pdf/2507.22407v1) | [MZNet](https://github.com/sngryongLee/Moire-Zero) ||
 | Freqformer: Image-Demoir\'eing Transformer via Efficient Frequency Decomposition | [arxiv-2025](https://arxiv.org/pdf/2505.19120) | [Freqformer](https://github.com/xyLiu339/Freqformer) |     |     |
 | DSDNet: Raw Domain Demoiréing via Dual Color-Space Synergy | [ICML-2025](https://arxiv.org/abs/2504.15756) |     |     |     |
 | Pyramid Learnable Bandpass Filters for Ultra-High-Definition Image Demoiréing | [TCSVT-2025](https://ieeexplore.ieee.org/abstract/document/10904420) |     |     |     |
@@ -41,7 +42,7 @@ Continual improvements are being made to this repository. If you come across any
 | Morié Attack (MA): A New Potential Risk of Screen Photos | [NeurIPS-2021](https://proceedings.neurips.cc/paper/2021/hash/db9eeb7e678863649bce209842e0d164-Abstract.html) | [MA](https://github.com/Dantong88/Moire_Attack) |     |     |
 | Image Demoiréing with a Dual-Domain Distilling Network | [ICME-2021](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9428091) |     |     |     |
 | Learning Frequency Domain Priors for Image Demoireing | [TPAMI-2021](https://ieeexplore.ieee.org/abstract/document/9547736) | [MBCNN](https://github.com/zhenngbolun/Learnbale_Bandpass_Filter) |     |     |
-| Self-Adaptively Learning to Demoiré from Focused and Defocused Image Pairs | [NeurIPS-2020](https://proceedings.neurips.cc/paper/2020/hash/fd348179ec677c5560d4cd9c3ffb6cd9-Abstract.html) |     |     |     |
+| Self-Adaptively Learning to Demoiré from Focused and Defocused Image Pairs | [NeurIPS-2020](https://proceedings.neurips.cc/paper/2020/hash/fd348179ec677c5560d4cd9c3ffb6cd9-Abstract.html) |  [FDNet](https://github.com/baolp/demoireing_with_focused_and_defocused_images_pairs)   |     |     |
 | Recaptured screen image demoiréing | [TCSVT-2020](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8972378) | [AMNet](https://github.com/tju-maoyan/AMNet) |     |     |
 | Deep Wavelet Network With Domain Adaptation for Single Image Demoireing | [CVPRW-2020](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Luo_Deep_Wavelet_Network_With_Domain_Adaptation_for_Single_Image_Demoireing_CVPRW_2020_paper.pdf) | /   |     |     |
 | MMDM: Multi-frame and multi-scale for image demoiréing | [CVPRW-2020](https://openaccess.thecvf.com/content_CVPRW_2020/papers/w31/Liu_MMDM_Multi-Frame_and_Multi-Scale_for_Image_Demoireing_CVPRW_2020_paper.pdf) | [MMDM](https://github.com/q935970314/MMDM) |     |     |
